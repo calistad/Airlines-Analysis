@@ -75,3 +75,8 @@ I decide to keep 'Airlines', 'Time', 'Airport_To', and 'Flight' attributes, and 
 Overall, the predictions of various models do not achieve highly accurate results. The model with the best performance is the voting classifier, which contains the highest accuracy, highest roc-auc score, and shorter run time. 
 
 If the company wants to predict flight delays, the voting classifier is recommended. However, the accuracy is only around 70%, which they should take into consideration.
+
+## Resources
+Airlines Dataset to predict a delay. (2022, June 21). Kaggle. https://www.kaggle.com/datasets/jimschacko/airlines-dataset-to-predict-a-delayMicrosoft. (2022). 
+
+GitHub Docs. https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables
